@@ -95,8 +95,8 @@ This project was inspired by the work **Saarthi.ai** is doing in multilingual co
 
 ## 👨‍💻 Author
 
-Built by [Your Name] — Pune, India 🇮🇳  
+Built by Aditya karjule — Pune, India 🇮🇳  
 Open to feedback, collaborations, and conversations!
 
-LinkedIn: [your-linkedin]  
-GitHub: [your-github]
+LinkedIn: www.linkedin.com/in/aditya-karjule-38427925a  
+GitHub: https://github.com/Aditya-karjule

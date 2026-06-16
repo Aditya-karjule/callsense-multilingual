@@ -1,0 +1,25 @@
+# CallSense - Multilingual Call Sentiment & Best-Time Predictor
+# Install: pip install -r requirements.txt
+
+# Core NLP
+transformers==4.40.0
+torch==2.2.0
+sentencepiece==0.2.0
+
+# Data & ML
+pandas==2.2.0
+numpy==1.26.0
+scikit-learn==1.4.0
+
+# Speech to Text (optional - for actual audio files)
+openai-whisper==20231117
+
+# LLM for summaries
+anthropic==0.25.0
+
+# Dashboard
+streamlit==1.33.0
+plotly==5.20.0
+
+# Utilities
+python-dotenv==1.0.0
